@@ -1,0 +1,16 @@
+Info:
+
+
+
+
+license:
+https://www.imagemagick.org/script/license.php
+
+git:
+https://github.com/ImageMagick/ImageMagick
+
+remove bg examples:
+http://www.imagemagick.org/Usage/masking/#bg_remove
+
+input & output examples:
+https://www.imagemagick.org/script/command-line-processing.php
